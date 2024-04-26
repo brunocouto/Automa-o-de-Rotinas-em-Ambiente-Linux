@@ -1,4 +1,4 @@
-# Automa-o-de-Rotinas-em-Ambiente-Linux
+# Automação-de-Rotinas-em-Ambiente-Linux
 automação de rotinas em ambiente Linux usando Python.
 Identificação de Tarefas:
 Backup de diretórios importantes
